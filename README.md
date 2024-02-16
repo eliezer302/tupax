@@ -38,9 +38,13 @@ DB_USERNAME=usuario_de_tu_base_de_datos
 
 DB_PASSWORD=contraseña_de_tu_base_de_datos
 
-7. Ejecuta las migraciones para crear las tablas de la base de datos:
+7. Ejecuta las migraciones para crear las tablas y los seeder para alimentar las bases de datos:
 
 php artisan migrate
+
+php artisan db:seed
+
+php artisan db:seed --class=TaskStatusesSeeder
 
 8. Inicia el servidor de desarrollo:
 
