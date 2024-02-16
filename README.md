@@ -1,4 +1,4 @@
-# Prueba API RESTful TUPAX
+# Prueba API RESTful TUXPAN
 
 Esta API RESTful está diseñada para manejar la gestión de usuarios, tareas y estados de tarea.
 
@@ -6,11 +6,11 @@ Esta API RESTful está diseñada para manejar la gestión de usuarios, tareas y 
 
 1. Clona el repositorio de la aplicación:
 
-git clone https://github.com/eliezer302/tupax.git
+git clone https://github.com/eliezer302/tuxpan.git
 
 2. Accede al directorio de la aplicación:
 
-cd tupax
+cd tuxpan
 
 3. Instala las dependencias de PHP utilizando Composer:
 
